@@ -643,7 +643,8 @@ Different topics commonly found in the IELTS **Writing and Speaking** sections.
 ---
 
 ✅ **Practicing these will improve your IELTS Writing & Speaking scores!** 🚀
-### **Understanding Coherence and Cohesion in IELTS Writing with 20 Examples**  
+
+# **Understanding Coherence and Cohesion in IELTS Writing**  
 
 In IELTS writing, **Coherence** and **Cohesion** are crucial for achieving a high band score. Let’s break them down in a simple way:  
 
@@ -652,7 +653,7 @@ In IELTS writing, **Coherence** and **Cohesion** are crucial for achieving a hig
 
 ---
 
-# **🔹 Coherence Explained with Examples**
+## **🔹 Coherence Explained with Examples**
 Coherence means that your essay has a logical progression of ideas, like telling a story step by step.
 
 #### **Example 1** (Bad Coherence ❌)  
@@ -706,7 +707,7 @@ Coherence means that your essay has a logical progression of ideas, like telling
 
 ---
 
-### **🔹 Cohesion Explained with 10 Examples**
+## **Cohesion Explained with Examples**
 Cohesion means that your ideas, sentences, and paragraphs are **connected smoothly** using linking words and phrases.
 
 #### **Example 11: (Bad Cohesion ❌)**
