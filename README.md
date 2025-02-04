@@ -92,32 +92,24 @@ Would you like me to provide more vocabulary in specific areas such as:
 
 - I'll expand on more advanced vocabulary specifically useful for IELTS Task 1 and Task 2, focusing on academic discussion, trends, and analytical writing. These words will help you achieve that Band 9 score by demonstrating sophisticated lexical resource.
 
-| Category | Common Word | Advanced Alternative | English Meaning | বাংলা অর্থ | Example Sentence |
-|----------|-------------|---------------------|-----------------|------------|------------------|
-| **Trend Description** | Go up | Surge | Rise suddenly and dramatically | হঠাৎ বৃদ্ধি | The number of remote workers surged dramatically following the global health crisis. |
-| | Increase | Proliferate | Increase rapidly in number | দ্রুত বৃদ্ধি পাওয়া | Online learning platforms have proliferated in recent years, transforming education. |
-| | Go down | Plummet | Fall or drop sharply | তীব্র পতন | Housing prices plummeted in the aftermath of the economic recession. |
-| | Decrease | Diminish | Become gradually less | ক্রমশ হ্রাস পাওয়া | The influence of traditional media has diminished with the rise of social platforms. |
-
-| **Academic Discussion** | Think | Postulate | Suggest or assume the existence of | অনুমান করা | Scientists postulate that dark matter comprises a significant portion of the universe. |
-| | Important | Imperative | Vital or essential | অপরিহার্য | It is imperative to address climate change through immediate action. |
-| | Look at | Scrutinize | Examine thoroughly | সূক্ষ্মভাবে পর্যবেক্ষণ করা | Researchers scrutinized the data to identify meaningful patterns. |
-| | Show | Demonstrate | Clearly show or prove | প্রমাণ করা | The experiment demonstrates the correlation between exercise and mental health. |
-
-| **Problem-Solution** | Fix | Ameliorate | Make better or improve | উন্নত করা | Government policies aim to ameliorate the housing shortage crisis. |
-| | Solve | Mitigate | Make less severe or serious | প্রশমন করা | Advanced technology can help mitigate the effects of climate change. |
-| | Help | Facilitate | Make easier or less difficult | সহজতর করা | Digital platforms facilitate communication between students and educators. |
-| | Change | Transform | Change completely | রূপান্তর করা | Artificial intelligence continues to transform traditional industries. |
-
-| **Comparison & Contrast** | Different | Disparate | Fundamentally different | মৌলিকভাবে ভিন্ন | The two cultures have disparate approaches to education. |
-| | Similar | Analogous | Comparable in certain respects | সদৃশ/অনুরূপ | The development of writing systems in ancient civilizations shows analogous patterns. |
-| | More than | Supersede | Replace or come after | প্রতিস্থাপন করা | Electric vehicles may eventually supersede traditional combustion engines. |
-| | Better | Superior | Of higher quality | শ্রেষ্ঠ/উন্নততর | The new methodology proved superior to conventional approaches. |
-
-| **Analysis & Evaluation** | Effect | Ramification | Consequence or result | পরিণতি/ফলাফল | The ramifications of this policy will be felt for generations. |
-| | Reason | Underlying factor | Basic cause | মূল কারণ | The underlying factors contributing to urban poverty are complex and interconnected. |
-| | Connection | Correlation | Mutual relationship | পারস্পরিক সম্পর্ক | There is a strong correlation between education levels and economic prosperity. |
-| | Impact | Implications | Possible effects or consequences | প্রভাব/ফলাফল | The implications of artificial intelligence for the job market are far-reaching. |
+| Academic Discussion | Word/Phrase | Synonym | Meaning (English) | Meaning (Bangla) | Example Sentence (English) | Example Sentence (Bangla - Approximate Translation) |
+|---|---|---|---|---|---|---|
+|  | Think | Postulate | Suggest or assume the existence of | অনুমান করা (Onuman kora) | Scientists postulate that dark matter comprises a significant portion of the universe. | বিজ্ঞানীরা অনুমান করেন যে কৃষ্ণ পদার্থ মহাবিশ্বের একটি উল্লেখযোগ্য অংশ নিয়ে গঠিত। (Bigganira onuman koren je krisno podartho mohabisher ekti ullekhjoggo ongsho niye gothito.) |
+|  | Important | Imperative | Vital or essential | অপরিহার্য (Oporiharyo) | It is imperative to address climate change through immediate action. | জলবায়ু পরিবর্তনের মোকাবিলা করার জন্য অবিলম্বে পদক্ষেপ নেওয়া অপরিহার্য। (Jolobayu poribortoner mokabila korar jonno obilombe pokkhep neoa oporiharyo.) |
+|  | Look at | Scrutinize | Examine thoroughly | সূক্ষ্মভাবে পর্যবেক্ষণ করা (Sukkho bhabe porjobekkhon kora) | Researchers scrutinized the data to identify meaningful patterns. | গবেষকরা অর্থবহ প্যাটার্ন সনাক্ত করার জন্য ডেটা সূক্ষ্মভাবে পর্যবেক্ষণ করেছেন। ( Gobeshokora orthoboh pattern sonakto korar jonno data sukkho bhabe porjobekkhon korechen.) |
+|  | Show | Demonstrate | Clearly show or prove | প্রমাণ করা (Pro man kora) | The experiment demonstrates the correlation between exercise and mental health. | পরীক্ষাটি ব্যায়াম এবং মানসিক স্বাস্থ্যের মধ্যে সম্পর্ক প্রমাণ করে। (Porikkhati byam ebong manoshik shasther modhye somporko proman kore.) |
+| Problem-Solution | Fix | Ameliorate | Make better or improve | উন্নত করা (Unnoto kora) | Government policies aim to ameliorate the housing shortage crisis. | সরকারি নীতিগুলির লক্ষ্য আবাসন সংকট উন্নত করা। (Sorkari nitigulir lokkhyo abason সংকট unnoto kora.) |
+|  | Solve | Mitigate | Make less severe or serious | প্রশমন করা (Proshomon kora) | Advanced technology can help mitigate the effects of climate change. | উন্নত প্রযুক্তি জলবায়ু পরিবর্তনের প্রভাব প্রশমিত করতে সাহায্য করতে পারে। (Unnoto projukti jolobayu poribortoner pro bhab proshomito korte shahajyo korte pare.) |
+|  | Help | Facilitate | Make easier or less difficult | সহজতর করা (Shohoj tor kora) | Digital platforms facilitate communication between students and educators. | ডিজিটাল প্ল্যাটফর্ম ছাত্র এবং শিক্ষকদের মধ্যে যোগাযোগ সহজতর করে। (Digital platform chhatro ebong shikkhokder modhye jogajog shohoj tor kore.) |
+|  | Change | Transform | Change completely | রূপান্তর করা (Rupantor kora) | Artificial intelligence continues to transform traditional industries. | কৃত্রিম বুদ্ধিমত্তা ঐতিহ্যবাহী শিল্পকে রূপান্তর করে চলেছে। (Kritrim buddhimotta ঐতিহ্যবাহী shilpake rupantor kore choleche.) |
+| Comparison & Contrast | Different | Disparate | Fundamentally different | মৌলিকভাবে ভিন্ন (Moulik bhabe bhinno) | The two cultures have disparate approaches to education. | দুটি সংস্কৃতির শিক্ষার প্রতি মৌলিকভাবে ভিন্ন দৃষ্টিভঙ্গি রয়েছে। (Duti sonskritir shikkhar proti moulik bhabe bhinno drishtibhongi royeche.) |
+|  | Similar | Analogous | Comparable in certain respects | সদৃশ/অনুরূপ (Sodrish/Onurup) | The development of writing systems in ancient civilizations shows analogous patterns. | প্রাচীন সভ্যতায় লিখন পদ্ধতির বিকাশে অনুরূপ প্যাটার্ন দেখা যায়। (Prachin sobhyotay likhon poddhoti bikashe onurup pattern dekha jay.) |
+|  | More than | Supersede | Replace or come after | প্রতিস্থাপন করা (Protisthapon kora) | Electric vehicles may eventually supersede traditional combustion engines. | বৈদ্যুতিক যানবাহন সম্ভবত শেষ পর্যন্ত ঐতিহ্যবাহী দহন ইঞ্জিনকে প্রতিস্থাপন করতে পারে। (Boiddhutik janbahon shombhoboto shesh porjonto ঐতিহ্যবাহী dohon engine ke protisthapon korte pare.) |
+|  | Better | Superior | Of higher quality | শ্রেষ্ঠ/উন্নততর (Sreshtho/Unnoto tor) | The new methodology proved superior to conventional approaches. | নতুন পদ্ধতিটি প্রচলিত পদ্ধতির চেয়ে শ্রেষ্ঠ প্রমাণিত হয়েছে। (Notun poddhoti ti prochollito poddhoti cheye sreshtho promanito hoyeche.) |
+| Analysis & Evaluation | Effect | Ramification | Consequence or result | পরিণতি/ফলাফল (Poriniti/Folafol) | The ramifications of this policy will be felt for generations. | এই নীতির পরিণতি প্রজন্ম ধরে অনুভূত হবে। (Ei nitir poriniti projonmo dhore onubhuto hobe.) |
+|  | Reason | Underlying factor | Basic cause | মূল কারণ (Mul karon) | The underlying factors contributing to urban poverty are complex and interconnected. | শহুরে দারিদ্র্যের মূল কারণগুলি জটিল এবং আন্তঃসংযুক্ত। (Shohore daridrer mul karonguli jutil ebong antahsonjukto.) |
+|  | Connection | Correlation | Mutual relationship | পারস্পরিক সম্পর্ক (Parasporik somporko) | There is a strong correlation between education levels and economic prosperity. | শিক্ষা স্তর এবং অর্থনৈতিক সমৃদ্ধির মধ্যে একটি শক্তিশালী পারস্পরিক সম্পর্ক রয়েছে। (Shikkha stor ebong orthonitik somriddhir modhye ekti shaktishali parasporik somporko royeche.) |
+|  | Impact | Implications | Possible effects or consequences | প্রভাব/ফলাফল (Pro bhab/Folafol) | The implications of artificial intelligence for the job market are far-reaching. | চাকরির বাজারে কৃত্রিম বুদ্ধিমত্তার প্রভাব সুদূরপ্রসারী। (Chakrir bajare kritrim buddhimottar pro bhab sudur prosari.) |
 
 When using these advanced terms in your IELTS exam, remember:
 
