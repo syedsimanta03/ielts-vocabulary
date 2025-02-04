@@ -409,4 +409,518 @@ Here’s a **new set of advanced words** for the **IELTS Speaking exam** on **Hi
 | **Entrepreneur** | Business owner, Startup founder, Innovator, Visionary | Someone who starts and runs a business | উদ্যোক্তা, ব্যবসায়ী | A successful **innovator** always thinks outside the box. |
 | **Partnership** | Collaboration, Alliance, Joint venture, Business relationship | A business arrangement between two or more parties | অংশীদারিত্ব, সহযোগিতা | The two companies formed a **strategic alliance** for mutual benefit. |
 
+### **What is Paraphrasing in IELTS?**  
+
+**Paraphrasing** means rewriting a sentence or idea in your own words while keeping the original meaning the same. It is an essential skill for **IELTS Writing and Speaking**, as it helps you avoid repetition and showcase your vocabulary and grammar range.  
+
+---
+
+# **Example of Paraphrasing in IELTS Writing**  
+
+🔴 **Original Sentence:**  
+"Many people believe that social media has a negative impact on real-life communication."  
+
+🟢 **Paraphrased Sentence:**  
+"A significant number of individuals think that social networking sites adversely affect face-to-face interactions."  
+
+✅ **What changed?**  
+- **"Many people" → "A significant number of individuals"** (Synonyms)  
+- **"Social media" → "Social networking sites"** (More specific)  
+- **"Negative impact" → "Adversely affect"** (Different phrasing)  
+- **"Real-life communication" → "Face-to-face interactions"** (Synonyms)  
+
+---
+
+### **Example of Paraphrasing in IELTS Speaking**  
+
+🔴 **Examiner’s Question:**  
+"What do you do in your free time?"  
+
+🟢 **Basic Answer:**  
+"I like reading books and watching movies."  
+
+🟢 **Paraphrased Answer (Better Score):**  
+"Whenever I have some leisure time, I enjoy immersing myself in books and exploring different genres of films."  
+
+✅ **What changed?**  
+- **"Free time" → "Leisure time"**  
+- **"Like" → "Enjoy"**  
+- **"Reading books" → "Immersing myself in books"**  
+- **"Watching movies" → "Exploring different genres of films"**  
+
+---
+
+### **Paraphrasing Techniques**  
+
+1️⃣ **Use Synonyms**  
+- **Big** → Large, enormous, significant  
+- **Important** → Crucial, essential, vital  
+- **Increase** → Rise, grow, escalate  
+
+2️⃣ **Change Sentence Structure**  
+🔴 "Technology is changing the way people communicate."  
+🟢 "The way people interact is being transformed by technology."  
+
+3️⃣ **Use Different Word Forms**  
+🔴 "Globalization has influenced job markets."  
+🟢 "The influence of globalization on job markets is significant."  
+
+---
+
+### **Why is Paraphrasing Important for IELTS?**  
+✅ Helps **avoid repetition**  
+✅ Demonstrates a **wide range of vocabulary**  
+✅ Improves **coherence and cohesion** in writing  
+✅ Shows **grammatical flexibility** in speaking  
+
+Different topics commonly found in the IELTS **Writing and Speaking** sections.
+
+---
+
+### **1-10: Education**  
+1️⃣ **Original**: Online learning is becoming increasingly popular among students.  
+   **Paraphrased**: More and more students are opting for virtual education.  
+
+2️⃣ **Original**: Studying abroad offers numerous advantages.  
+   **Paraphrased**: Pursuing education overseas provides several benefits.  
+
+3️⃣ **Original**: Many students find mathematics difficult.  
+   **Paraphrased**: A large number of learners struggle with math.  
+
+4️⃣ **Original**: Parents should be involved in their children's education.  
+   **Paraphrased**: It is essential for parents to participate in their kids' academic journey.  
+
+5️⃣ **Original**: University degrees are important for career success.  
+   **Paraphrased**: Higher education qualifications play a crucial role in professional achievement.  
+
+6️⃣ **Original**: Teachers should encourage creativity in the classroom.  
+   **Paraphrased**: Educators ought to promote innovative thinking in academic settings.  
+
+7️⃣ **Original**: Schools must provide a safe learning environment.  
+   **Paraphrased**: Educational institutions should ensure a secure atmosphere for students.  
+
+8️⃣ **Original**: Children learn best through practical activities.  
+   **Paraphrased**: Hands-on experiences are the most effective way for children to acquire knowledge.  
+
+9️⃣ **Original**: Education plays a vital role in personal development.  
+   **Paraphrased**: Learning significantly contributes to individual growth.  
+
+🔟 **Original**: Science subjects are more important than arts in schools.  
+   **Paraphrased**: Scientific disciplines hold greater significance than artistic fields in educational institutions.  
+
+---
+
+### **11-20: Technology & Media**  
+1️⃣1️⃣ **Original**: The internet has revolutionized the way we communicate.  
+   **Paraphrased**: Online connectivity has drastically changed communication methods.  
+
+1️⃣2️⃣ **Original**: Social media influences people's opinions.  
+   **Paraphrased**: Platforms like Facebook and Twitter shape public perceptions.  
+
+1️⃣3️⃣ **Original**: Cybersecurity is a major concern today.  
+   **Paraphrased**: Protecting digital information is a significant issue in modern times.  
+
+1️⃣4️⃣ **Original**: Many children spend too much time on electronic devices.  
+   **Paraphrased**: A considerable number of kids overuse gadgets.  
+
+1️⃣5️⃣ **Original**: Online shopping is replacing traditional retail stores.  
+   **Paraphrased**: E-commerce is gradually taking over brick-and-mortar businesses.  
+
+1️⃣6️⃣ **Original**: The media often exaggerates news to attract viewers.  
+   **Paraphrased**: News outlets frequently sensationalize stories to boost their audience.  
+
+1️⃣7️⃣ **Original**: Artificial intelligence is transforming industries.  
+   **Paraphrased**: AI is reshaping various sectors.  
+
+1️⃣8️⃣ **Original**: Technology makes life more convenient.  
+   **Paraphrased**: Advancements in digital tools simplify daily tasks.  
+
+1️⃣9️⃣ **Original**: The rise of automation threatens jobs.  
+   **Paraphrased**: Increased mechanization puts employment opportunities at risk.  
+
+2️⃣0️⃣ **Original**: The internet provides access to unlimited knowledge.  
+   **Paraphrased**: Online resources offer an endless pool of information.  
+
+---
+
+### **21-30: Environment & Climate Change**  
+2️⃣1️⃣ **Original**: Climate change is one of the biggest threats to our planet.  
+   **Paraphrased**: Global warming poses a significant danger to Earth.  
+
+2️⃣2️⃣ **Original**: Deforestation leads to loss of biodiversity.  
+   **Paraphrased**: Cutting down forests results in reduced wildlife diversity.  
+
+2️⃣3️⃣ **Original**: Governments should take action to reduce pollution.  
+   **Paraphrased**: Authorities must implement measures to minimize environmental contamination.  
+
+2️⃣4️⃣ **Original**: Recycling helps in reducing waste.  
+   **Paraphrased**: Reusing materials contributes to waste minimization.  
+
+2️⃣5️⃣ **Original**: Air pollution is mainly caused by vehicle emissions.  
+   **Paraphrased**: The primary source of air contamination is exhaust fumes from automobiles.  
+
+2️⃣6️⃣ **Original**: The demand for renewable energy is increasing.  
+   **Paraphrased**: There is a growing preference for sustainable power sources.  
+
+2️⃣7️⃣ **Original**: Water scarcity is becoming a global issue.  
+   **Paraphrased**: A shortage of clean water is emerging as a worldwide problem.  
+
+2️⃣8️⃣ **Original**: Industrial activities contribute to environmental degradation.  
+   **Paraphrased**: Factories and industries play a role in harming nature.  
+
+2️⃣9️⃣ **Original**: Plastic waste is a serious problem for marine life.  
+   **Paraphrased**: Ocean creatures are endangered due to excessive plastic pollution.  
+
+3️⃣0️⃣ **Original**: People should reduce their carbon footprint.  
+   **Paraphrased**: Individuals must take steps to lower their environmental impact.  
+
+---
+
+### **31-40: Health & Lifestyle**  
+3️⃣1️⃣ **Original**: Exercise is essential for maintaining good health.  
+   **Paraphrased**: Physical activity plays a crucial role in overall well-being.  
+
+3️⃣2️⃣ **Original**: Junk food consumption is increasing among teenagers.  
+   **Paraphrased**: More adolescents are opting for unhealthy fast food.  
+
+3️⃣3️⃣ **Original**: A balanced diet prevents many diseases.  
+   **Paraphrased**: Consuming nutritious meals helps in avoiding illnesses.  
+
+3️⃣4️⃣ **Original**: Smoking causes serious health problems.  
+   **Paraphrased**: Tobacco use leads to severe medical conditions.  
+
+3️⃣5️⃣ **Original**: Mental health is as important as physical health.  
+   **Paraphrased**: Psychological well-being is equally significant as bodily fitness.  
+
+3️⃣6️⃣ **Original**: People should get enough sleep to stay healthy.  
+   **Paraphrased**: Adequate rest is necessary for maintaining good health.  
+
+3️⃣7️⃣ **Original**: Stress negatively affects productivity.  
+   **Paraphrased**: Anxiety reduces work efficiency.  
+
+3️⃣8️⃣ **Original**: Drinking water keeps the body hydrated.  
+   **Paraphrased**: Staying hydrated requires regular water intake.  
+
+3️⃣9️⃣ **Original**: Regular health check-ups can detect diseases early.  
+   **Paraphrased**: Routine medical examinations help in the early diagnosis of illnesses.  
+
+4️⃣0️⃣ **Original**: The government should promote public health awareness.  
+   **Paraphrased**: Authorities must encourage people to be informed about their health.  
+
+---
+
+### **41-50: Work & Society**  
+4️⃣1️⃣ **Original**: Job satisfaction is important for employee motivation.  
+   **Paraphrased**: Workplace happiness plays a key role in motivating workers.  
+
+4️⃣2️⃣ **Original**: Women should be given equal opportunities at work.  
+   **Paraphrased**: Gender equality in the workplace must be ensured.  
+
+4️⃣3️⃣ **Original**: Work-life balance is necessary for mental well-being.  
+   **Paraphrased**: Maintaining harmony between professional and personal life is crucial for emotional health.  
+
+4️⃣4️⃣ **Original**: The population is growing rapidly in urban areas.  
+   **Paraphrased**: Cities are experiencing a sharp rise in population.  
+
+4️⃣5️⃣ **Original**: Crime rates are increasing in many countries.  
+   **Paraphrased**: Many nations are witnessing a surge in criminal activities.  
+
+4️⃣6️⃣ **Original**: Traditional values are disappearing due to modernization.  
+   **Paraphrased**: Cultural traditions are fading as societies become more modern.  
+
+4️⃣7️⃣ **Original**: Poverty remains a major social issue.  
+   **Paraphrased**: Economic hardship continues to be a significant societal challenge.  
+
+4️⃣8️⃣ **Original**: Tourism boosts the economy of a country.  
+   **Paraphrased**: The travel industry contributes to national economic growth.  
+
+4️⃣9️⃣ **Original**: Volunteering benefits both individuals and communities.  
+   **Paraphrased**: Engaging in unpaid social work helps people and society alike.  
+
+5️⃣0️⃣ **Original**: Laws should protect workers’ rights.  
+   **Paraphrased**: Legislation must safeguard employee privileges.  
+
+---
+
+✅ **Practicing these will improve your IELTS Writing & Speaking scores!** 🚀
+### **Understanding Coherence and Cohesion in IELTS Writing with 20 Examples**  
+
+In IELTS writing, **Coherence** and **Cohesion** are crucial for achieving a high band score. Let’s break them down in a simple way:  
+
+✅ **Coherence** → The logical organization of ideas in a clear and structured manner. (Your ideas must flow well.)  
+✅ **Cohesion** → The use of linking words and phrases to connect sentences and paragraphs smoothly. (Your sentences must stick together well.)  
+
+---
+
+# **🔹 Coherence Explained with Examples**
+Coherence means that your essay has a logical progression of ideas, like telling a story step by step.
+
+#### **Example 1** (Bad Coherence ❌)  
+⚡ *Many people prefer working from home. Office jobs require traveling. Remote jobs are flexible. People like it.*  
+
+👉 **Why is this bad?** There is no logical flow between ideas. It jumps from one thought to another without proper connection.  
+
+#### **Example 1** (Good Coherence ✅)  
+⚡ *Many people prefer working from home because it offers flexibility. Unlike office jobs that require daily commuting, remote work allows employees to manage their schedules more efficiently. As a result, more companies are adopting work-from-home policies.*  
+
+👉 **Why is this good?** The ideas are well-organized, moving from **preference → comparison → result** in a logical order.
+
+---
+
+#### **Example 2 (Bad Coherence ❌)**  
+⚡ *Tourism is a growing industry. Many tourists visit famous cities. Pollution is increasing. Governments should take action.*  
+
+👉 **Problem**: The ideas are disconnected. It is unclear how tourism and pollution are related.  
+
+#### **Example 2 (Good Coherence ✅)**  
+⚡ *Tourism is a rapidly expanding industry, leading to a higher number of visitors in major cities. However, this influx of tourists has also contributed to environmental issues such as increased pollution. Therefore, governments should implement policies to regulate tourism and protect the environment.*  
+
+👉 **Fix**: The connection between tourism and pollution is clearly explained, making it easy to understand.  
+
+---
+
+#### **8 More Coherence Examples**
+3️⃣ Bad: *Technology is advancing. Education is important. Some schools lack resources.*  
+   ✅ Good: *As technology advances, education is also evolving. However, some schools struggle to keep up due to a lack of resources.*  
+
+4️⃣ Bad: *Exercise is good. People eat fast food. Obesity is a problem.*  
+   ✅ Good: *Although regular exercise has many health benefits, the popularity of fast food contributes to rising obesity rates.*  
+
+5️⃣ Bad: *Cities are crowded. Houses are expensive. Public transport is useful.*  
+   ✅ Good: *Due to rising urban populations, housing costs have increased. As a result, more people rely on public transport to commute.*  
+
+6️⃣ Bad: *Climate change is happening. The economy is growing. Many companies use coal.*  
+   ✅ Good: *Despite economic growth, the continued use of coal by many industries is accelerating climate change.*  
+
+7️⃣ Bad: *Children watch TV. Learning is important. Reading books helps.*  
+   ✅ Good: *Although children spend a lot of time watching TV, reading books remains one of the most effective ways to enhance learning.*  
+
+8️⃣ Bad: *Old people need care. Many families are busy. Nursing homes exist.*  
+   ✅ Good: *As families become busier with work and personal commitments, nursing homes have become an essential solution for elderly care.*  
+
+9️⃣ Bad: *Tourists visit different places. Flights are expensive. Beaches are nice.*  
+   ✅ Good: *Despite the high cost of flights, many tourists still travel to different places, especially beautiful beaches.*  
+
+🔟 Bad: *Unemployment is rising. Education is expensive. Jobs require skills.*  
+   ✅ Good: *Since education has become expensive, many people struggle to gain the skills needed for employment, leading to rising unemployment rates.*  
+
+---
+
+### **🔹 Cohesion Explained with 10 Examples**
+Cohesion means that your ideas, sentences, and paragraphs are **connected smoothly** using linking words and phrases.
+
+#### **Example 11: (Bad Cohesion ❌)**
+⚡ *People eat unhealthy food. They are gaining weight. They should exercise. It is difficult.*  
+
+👉 **Problem**: The sentences feel disconnected because there are no linking words.  
+
+#### **Example 11: (Good Cohesion ✅)**
+⚡ *People eat unhealthy food; as a result, they are gaining weight. Therefore, they should exercise regularly. However, maintaining a workout routine can be difficult for some individuals.*  
+
+👉 **Fix**: Linking words like **"as a result"**, **"therefore"**, and **"however"** improve the flow.  
+
+---
+
+#### **Example 12 (Bad Cohesion ❌)**
+⚡ *Many students study abroad. It is expensive. They take loans. They struggle financially.*  
+
+👉 **Problem**: The ideas do not flow smoothly.  
+
+#### **Example 12 (Good Cohesion ✅)**
+⚡ *Many students choose to study abroad, but it can be expensive. As a result, they often take loans, which can lead to financial struggles later on.*  
+
+👉 **Fix**: The use of **"but," "as a result,"** and **"which"** helps link the ideas logically.  
+
+---
+
+#### **8 More Cohesion Examples**
+1️⃣ **Bad**: *Some people prefer online shopping. Traditional shopping is popular.*  
+   ✅ **Good**: *Some people prefer online shopping, whereas traditional shopping remains popular among others.*  
+
+2️⃣ **Bad**: *Technology is changing. Jobs are changing too.*  
+   ✅ **Good**: *As technology evolves, jobs are also undergoing significant changes.*  
+
+3️⃣ **Bad**: *Pollution is a problem. Governments should take action.*  
+   ✅ **Good**: *Since pollution is a growing problem, governments should implement strict regulations.*  
+
+4️⃣ **Bad**: *Reading books is good. Watching TV is fun too.*  
+   ✅ **Good**: *While reading books is beneficial, watching TV can also be an enjoyable activity.*  
+
+5️⃣ **Bad**: *City life is busy. Rural life is calm.*  
+   ✅ **Good**: *Unlike city life, which is fast-paced, rural life offers a peaceful environment.*  
+
+6️⃣ **Bad**: *Social media is popular. Some people use it too much.*  
+   ✅ **Good**: *Although social media is widely used, excessive usage can have negative effects.*  
+
+7️⃣ **Bad**: *Fast food is convenient. It is unhealthy.*  
+   ✅ **Good**: *Fast food is convenient; however, it can have harmful effects on health.*  
+
+8️⃣ **Bad**: *Traveling is fun. It is expensive.*  
+   ✅ **Good**: *Although traveling is an enjoyable experience, it can also be quite costly.*  
+
+---
+
+## **1️⃣ Cause & Effect (Coherence & Cohesion)**  
+### **Example 1 (Bad Coherence ❌)**  
+⚡ *People drive too much. Air pollution is increasing. We should do something.*  
+
+👉 **Problem**: The connection between excessive driving and air pollution is unclear.  
+
+### **Example 1 (Good Coherence ✅)**  
+⚡ *Excessive use of private vehicles has significantly contributed to air pollution. As a result, governments must take immediate action to promote sustainable transport options.*  
+
+👉 **Fix**: A clear **cause-and-effect** relationship is established using *"as a result."*  
+
+---  
+### **Example 2 (Bad Cohesion ❌)**  
+⚡ *Students use social media. They spend less time studying. Their grades are low.*  
+
+👉 **Problem**: The sentences feel disconnected.  
+
+### **Example 2 (Good Cohesion ✅)**  
+⚡ *Since students spend excessive time on social media, they often neglect their studies. Consequently, their academic performance declines.*  
+
+👉 **Fix**: The linking words **"since"** and **"consequently"** improve the flow.  
+
+---
+
+## **2️⃣ Comparison & Contrast**  
+### **Example 3 (Bad Coherence ❌)**  
+⚡ *Online learning is good. Traditional learning is good too. Some people like it.*  
+
+👉 **Problem**: There is no clear comparison between the two learning methods.  
+
+### **Example 3 (Good Coherence ✅)**  
+⚡ *While online learning offers flexibility, traditional classroom learning provides a structured environment. Therefore, some students prefer a blended approach.*  
+
+👉 **Fix**: **"While"** introduces a contrast, and **"therefore"** presents the conclusion.  
+
+---  
+### **Example 4 (Bad Cohesion ❌)**  
+⚡ *Some people prefer fast food. Home-cooked food is better. Both have benefits.*  
+
+👉 **Problem**: The comparison is unclear, and the sentences do not flow well.  
+
+### **Example 4 (Good Cohesion ✅)**  
+⚡ *Although some people prefer the convenience of fast food, home-cooked meals are generally healthier. Nevertheless, both options have their advantages.*  
+
+👉 **Fix**: **"Although"** introduces contrast, and **"nevertheless"** makes the transition smoother.  
+
+---
+
+## **3️⃣ Problem & Solution**  
+### **Example 5 (Bad Coherence ❌)**  
+⚡ *Traffic congestion is a problem. Many cars are on the road. People should take buses.*  
+
+👉 **Problem**: The problem and solution are not clearly connected.  
+
+### **Example 5 (Good Coherence ✅)**  
+⚡ *Traffic congestion is worsening due to the rising number of private vehicles. To address this, authorities should encourage the use of public transportation.*  
+
+👉 **Fix**: **"To address this"** makes the solution logically follow the problem.  
+
+---  
+### **Example 6 (Bad Cohesion ❌)**  
+⚡ *Obesity is rising. People eat junk food. The government must help.*  
+
+👉 **Problem**: The connection between junk food and government intervention is unclear.  
+
+### **Example 6 (Good Cohesion ✅)**  
+⚡ *As obesity rates continue to rise due to unhealthy eating habits, governments must introduce stricter food regulations to promote healthier choices.*  
+
+👉 **Fix**: **"As"** shows cause, and **"to promote healthier choices"** gives a clear purpose.  
+
+---
+
+## **4️⃣ Opinion & Argument**  
+### **Example 7 (Bad Coherence ❌)**  
+⚡ *Technology is good. Some people dislike it. It makes life easier.*  
+
+👉 **Problem**: The argument is unclear, and the ideas are randomly placed.  
+
+### **Example 7 (Good Coherence ✅)**  
+⚡ *Although some individuals believe technology complicates life, it has undeniably improved convenience in many aspects, such as communication and healthcare.*  
+
+👉 **Fix**: **"Although"** presents the opposing view, and **"undeniably"** strengthens the argument.  
+
+---  
+### **Example 8 (Bad Cohesion ❌)**  
+⚡ *Some think social media is harmful. It is useful for communication. It depends.*  
+
+👉 **Problem**: The ideas seem disconnected and abrupt.  
+
+### **Example 8 (Good Cohesion ✅)**  
+⚡ *While some argue that social media negatively impacts mental health, others emphasize its role in enhancing global communication. Ultimately, its impact depends on how it is used.*  
+
+👉 **Fix**: **"While"** introduces contrast, and **"ultimately"** leads to the final viewpoint.  
+
+---
+
+## **5️⃣ General Examples of Better Coherence & Cohesion**  
+### **Example 9 (Bad Coherence ❌)**  
+⚡ *The internet is important. Many people use it. Some countries have restrictions.*  
+
+👉 **Problem**: No clear link between usage and restrictions.  
+
+### **Example 9 (Good Coherence ✅)**  
+⚡ *The internet has become an essential tool for communication and education. However, in some countries, access is restricted due to government regulations.*  
+
+👉 **Fix**: **"However"** introduces the contrast smoothly.  
+
+---  
+### **Example 10 (Bad Cohesion ❌)**  
+⚡ *Children should exercise. Schools teach math. Exercise is fun.*  
+
+👉 **Problem**: Random and unrelated sentences.  
+
+### **Example 10 (Good Cohesion ✅)**  
+⚡ *While academic subjects like math are essential, physical activity is equally important for children's health and well-being.*  
+
+👉 **Fix**: **"While"** contrasts both ideas, creating a smooth connection.  
+
+---
+
+## **6️⃣ Additional 10 Quick Examples**
+✅ **Bad**: *People should recycle. Plastic is bad. It pollutes the ocean.*  
+   🔹 **Good**: *Since plastic pollution harms marine life, recycling is essential for environmental protection.*  
+
+✅ **Bad**: *Education is important. Many kids cannot study. Schools cost money.*  
+   🔹 **Good**: *Education is vital, yet many children are unable to attend school due to financial constraints.*  
+
+✅ **Bad**: *Tourism brings money. Some places are damaged. Tourists visit often.*  
+   🔹 **Good**: *Although tourism generates revenue, it can also lead to environmental degradation in frequently visited locations.*  
+
+✅ **Bad**: *Smoking is bad. Some people like it. Laws can help.*  
+   🔹 **Good**: *Despite the health risks, some individuals continue to smoke. Therefore, stricter laws are necessary to discourage this habit.*  
+
+✅ **Bad**: *Many use public transport. Others prefer cars. Traffic is a problem.*  
+   🔹 **Good**: *Although public transport is widely used, many still rely on private cars, contributing to traffic congestion.*  
+
+✅ **Bad**: *Crime rates are rising. Some areas are dangerous. The police help.*  
+   🔹 **Good**: *As crime rates increase, law enforcement plays a crucial role in ensuring public safety.*  
+
+✅ **Bad**: *Vegetables are healthy. Junk food is popular. People eat both.*  
+   🔹 **Good**: *While vegetables are a healthier option, junk food remains widely consumed due to its convenience.*  
+
+✅ **Bad**: *University is expensive. People take loans. Some cannot afford it.*  
+   🔹 **Good**: *Higher education is costly, forcing many students to take loans, while others are unable to afford it at all.*  
+
+✅ **Bad**: *AI is growing. Some jobs are disappearing. Technology is useful.*  
+   🔹 **Good**: *As artificial intelligence advances, some jobs become obsolete, yet technology continues to offer numerous benefits.*  
+
+✅ **Bad**: *Exercise is good. People are lazy. They watch TV a lot.*  
+   🔹 **Good**: *Although exercise improves health, many people remain inactive, often preferring to watch TV instead.*  
+
+---
+
+### **💡 Conclusion**
+- **Coherence** = Logical order of ideas  
+- **Cohesion** = Smooth connection between sentences
+  
+## **💡 Final Thoughts**  
+To achieve **high coherence & cohesion** in IELTS Writing:  
+🔹 **Organize ideas logically** (cause-effect, compare-contrast, etc.).  
+🔹 **Use linking words effectively** (however, therefore, although, etc.).  
+🔹 **Ensure smooth transitions** between sentences & paragraphs.  
+
 
