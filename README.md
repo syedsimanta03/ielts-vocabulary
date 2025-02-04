@@ -653,7 +653,7 @@ In IELTS writing, **Coherence** and **Cohesion** are crucial for achieving a hig
 
 ---
 
-## **🔹 Coherence Explained with Examples**
+## ** Coherence Explained with Examples**
 Coherence means that your essay has a logical progression of ideas, like telling a story step by step.
 
 #### **Example 1** (Bad Coherence ❌)  
