@@ -1,4 +1,18 @@
-## Daily Life
+# ✨9 Key Vocabulary Words  
+
+| **Word**    | **Definition (English)** | **বাংলা অর্থ** | **Speaking Example** | **Writing Example** |
+|------------|----------------------|-----------------|---------------------|----------------------|
+| **On Par** | Equal to something or someone | সমান, একই মানের | "My grades last semester were **on par** with the best students in my program." | "My personal sentiments are **on par** with the idea that strict parental control leads to success." |
+| **Volatile** | Unstable, changeable, often negative | অস্থিতিশীল, পরিবর্তনশীল | "My professional schedule has been quite **volatile** this past year." | "The figures exhibit **volatility** between 1996 and 2000, but stability returns in 2002." |
+| **Plateau** | A period of no progress or stability | স্থিতিশীল অবস্থা, যেখানে উন্নতি বা অবনতি নেই | "My English skills **plateaued** due to lack of practice." | "Corn oil production **hit a plateau** of 200 barrels before increasing again." |
+| **Pique** | To stimulate interest or curiosity | উদ্দীপিত করা, আগ্রহ তৈরি করা | "Visiting a science museum as a child **piqued** my interest in programming." | "Technology can **pique** students' interest, improving focus and retention." |
+| **Contrary** | Opposing ideas; opposite facts | বিপরীত, ভিন্নমত | "**Contrary** to my personality, my sister is very outgoing." | "On the **contrary**, using too much technology in classrooms can be disadvantageous." |
+| **Parallel** | Something occurring in a similar manner | সমান্তরাল, একই রকমভাবে হওয়া | "My university experiences **paralleled** those of my brother." | "There are several **parallels** between *Harry Potter* and *The Lord of the Rings*." |
+| **Embrace** | To accept something willingly | গ্রহণ করা, স্বেচ্ছায় গ্রহণ করা | "I **embraced** the opportunity to study abroad." | "Students who **embrace** new languages set themselves up for success." |
+| **Hinder** | To slow down or make difficult | বাধা দেওয়া, বিলম্বিত করা | "Being too social can **hinder** a student's ability to focus." | "Corruption has historically **hindered** legal protection for the poor." |
+| **Retain** | To keep something in position or memory | ধরে রাখা, সংরক্ষণ করা | "I have always **retained** a desire to live in my home country." | "If a single language dominates globally, people might struggle to **retain** their cultural identity." |
+
+## Simple Words
 
 | **Basic Word** | **Advanced Synonyms / Linkers** | **Meaning (English)** | **Meaning (বাংলা)** | **Example Sentence** |
 |--------------|-------------------------------|----------------------|----------------|----------------|
