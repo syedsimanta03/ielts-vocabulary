@@ -14,60 +14,58 @@
 
 # ✨Common phrases for essay writing skills.
 
-| **Phrase Category**             | **Phrase**                         | **Analogy**                                                                                                                                       |
-|-------------------------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Agreeing and Disagreeing**  | "I strongly agree with..."         | Like a bee drawn to nectar, **I am irresistibly convinced that...**                                                                              |
-|                               | "I completely disagree with..."    | Just as oil repels water, **I find myself at odds with the notion that...**                                                                      |
-|                               | "I am of the same opinion that..." | Birds of a feather flock together, and **I too believe that...**                                                                                 |
-|                               | "While I agree with some aspects..."| Like appreciating the melody but not the lyrics, **I acknowledge certain points, yet...**                                                        |
-|                               | "I concur with the viewpoint that..."| In harmony with the orchestra, **I share the perspective that...**                                                                               |
-| **Expressing Causes and Effects** | "...due to..."                  | The garden flourishes **due to** the nurturing rain, similarly...                                                                                |
-|                               | "As a result of..."                | The river swells **as a result of** the melting snow, likewise...                                                                                |
-|                               | "One of the main reasons for... is..."| Just as the sun rises **because of** Earth's rotation, one primary cause for... is...                                                            |
-|                               | "...caused by..."                  | The shadows lengthen, **caused by** the setting sun, in the same way...                                                                          |
-|                               | "The consequences of... are..."    | Like a domino effect, **the consequences of... are...**                                                                                          |
-| **Contrasting and Comparing** | "In the same way that..."          | **In the same way that** a compass points north, ...                                                                                             |
-|                               | "In a similar vein,..."            | Just as a key fits a lock, **in a similar vein,...**                                                                                             |
-|                               | "In contrast to..."                | **In contrast to** a desert's arid climate, ...                                                                                                  |
-|                               | "On the other hand,..."            | **On the other hand,** like night differs from day, ...                                                                                          |
-|                               | "Similarly,..."                    | **Similarly,** as echoes mirror sound, ...                                                                                                       |
-| **Introducing Examples**      | "For instance,..."                 | **For instance,** just as a chef adds spices to enhance flavor, ...                                                                              |
-|                               | "Such as..."                       | Various fruits, **such as** apples and oranges, ...                                                                                              |
-|                               | "To illustrate,..."                | **To illustrate,** like a painter adding color to a canvas, ...                                                                                  |
-|                               | "Namely,..."                       | **Namely,** as specific stars form constellations, ...                                                                                           |
-|                               | "As an example,..."                | **As an example,** akin to a gardener planting seeds, ...                                                                                        |
-| **Explaining and Clarifying Ideas** | "In other words,..."          | **In other words,** like translating a foreign language, ...                                                                                     |
-|                               | "To put it simply,..."             | **To put it simply,** as boiling water turns to steam, ...                                                                                       |
-|                               | "That is to say,..."               | **That is to say,** much like a mirror reflects an image, ...                                                                                    |
-|                               | "To clarify,..."                   | **To clarify,** as a magnifying glass reveals details, ...                                                                                       |
-|                               | "In simpler terms,..."             | **In simpler terms,** like distilling complex flavors into a single taste, ...                                                                  |
-| **Expressing Personal Opinion** | "In my opinion,..."              | **In my opinion,** just as a captain steers a ship, ...                                                                                          |
-|                               | "I believe that..."                | **I believe that,** much like a seed grows into a tree, ...                                                                                      |
-|                               | "From my perspective,..."          | **From my perspective,** as an eagle views the landscape from above, ...                                                                        |
-|                               | "I am convinced that..."           | **I am convinced that,** akin to a puzzle piece fitting perfectly, ...                                                                          |
-|                               | "It seems to me that..."           | **It seems to me that,** like clouds foretelling a storm, ...                                                                                   |
-| **Emphasizing Importance**    | "It is essential that..."          | **It is essential that,** just as oxygen is vital for life, ...                                                                                  |
-|                               | "Notably,..."                      | **Notably,** like a lighthouse guiding ships, ...                                                                                                |
-|                               | "Significantly,..."                | **Significantly,** as a keystone supports an arch, ...                                                                                           |
-|                               | "It is crucial to..."              | **It is crucial to,** much like a foundation supports a building, ...                                                                           |
-|                               | "Importantly,..."                  | **Importantly,** akin to a compass providing direction, ...                                                                                      |
-| **Giving Reasons**            | "This is because..."               | **This is because,** like a clock ticks due to its gears, ...                                                                                    |
-|                               | "Due to the fact that..."          | **Due to the fact that,** as a plant thrives because of sunlight, ...                                                                            |
-|                               | "Owing to..."                      | **Owing to,** much like tides rise owing to the moon's pull, ...                                                                                 |
-|                               | "The reason for this is..."        | **The reason for this is,** akin to how friction slows motion, ...                                                                              |
-|                               | "Since..."                         | **Since,** just as dawn follows night, ...                                                                                                      |
-| **Providing Solutions**       | "A possible solution is..."        | **A possible solution is,** like patching a leaky roof, ...                                                                                      |
-|                               | "To address this issue,..."        | **To address this issue,** as a doctor treats an illness, ...                                                                                   |
-|                               | "One way to resolve this is..."    | **One way to resolve this is,** akin to untangling a knot, ...                                                                                   |
-|                               | "To overcome this problem,..."     | **To overcome this problem,** much like climbing over a barrier, ...                                                                            |
-|                               | "An effective measure would be..." | **An effective measure would be,** as a filter purifies water, ...                                                                              |
-| **Supporting Arguments**      | "According to..."                  | **According to,** like a map guiding travelers, ...                                                                                              |
-|                               | "As stated by..."                  | **As stated by,** much like an anchor holds a ship steady, ...                                                                                   |
-|                               | "Research shows that..."           | **Research shows that,** akin to a magnifying glass revealing details, ...                                                                      |
-|                               | "Experts suggest that..."          | **Experts suggest that,** as a coach advises athletes, ...                                                                                      |
-|                               | "Studies indicate that..."         | **Studies indicate that,** like a thermometer measures temperature, ...                                                                         |
-| **Stating Advantages and Disadvantages** | "One advantage is..."   | **One advantage is,** like having the wind at your back, ...                                                                                    |
-|                               | "A disadvantage of this is..."     | **A disadvantage of this is,** just as walking against a strong current, ...                                                                   |
+## **Agreeing and Disagreeing**  
+| **Phrase** | **Example Sentence** |
+|-----------|---------------------|
+| **I strongly agree with...** | **I strongly agree with** the idea that education is the foundation of a prosperous society. |
+| **I completely disagree with...** | **I completely disagree with** the notion that social media has only negative effects. |
+| **I am of the same opinion that...** | **I am of the same opinion that** technology has greatly improved our quality of life. |
+| **While I agree with some aspects...** | **While I agree with some aspects** of this argument, I believe it overlooks key economic factors. |
+| **I concur with the viewpoint that...** | **I concur with the viewpoint that** environmental sustainability should be a global priority. |
+
+## **Expressing Causes and Effects**  
+| **Phrase** | **Example Sentence** |
+|-----------|---------------------|
+| **...due to...** | Air pollution has increased **due to** excessive vehicle emissions. |
+| **As a result of...** | **As a result of** strict laws, crime rates have significantly dropped. |
+| **One of the main reasons for... is...** | **One of the main reasons for** climate change **is** deforestation. |
+| **...caused by...** | Traffic congestion is **caused by** poor urban planning. |
+| **The consequences of... are...** | **The consequences of** global warming **are** rising sea levels and extreme weather. |
+
+## **Contrasting and Comparing**  
+| **Phrase** | **Example Sentence** |
+|-----------|---------------------|
+| **In the same way that...** | **In the same way that** physical exercise strengthens the body, reading strengthens the mind. |
+| **In a similar vein,...** | **In a similar vein,** investing in education leads to economic growth. |
+| **In contrast to...** | **In contrast to** traditional education, online learning offers more flexibility. |
+| **On the other hand,...** | Studying abroad provides cultural exposure. **On the other hand,** it can be expensive. |
+| **Similarly,...** | A healthy diet improves physical health. **Similarly,** mental health benefits from stress management. |
+
+## **Introducing Examples**  
+| **Phrase** | **Example Sentence** |
+|-----------|---------------------|
+| **For instance,...** | **For instance,** Japan has successfully implemented a high-speed rail system. |
+| **Such as...** | Renewable energy sources **such as** solar and wind power are becoming more popular. |
+| **To illustrate,...** | **To illustrate,** Finland’s education model emphasizes creativity over memorization. |
+| **Namely,...** | Several countries, **namely,** Canada and Sweden, provide free healthcare. |
+| **As an example,...** | **As an example,** many companies now allow remote work to boost productivity. |
+
+## **Explaining and Clarifying Ideas**  
+| **Phrase** | **Example Sentence** |
+|-----------|---------------------|
+| **In other words,...** | **In other words,** a well-balanced diet is essential for a healthy lifestyle. |
+| **To put it simply,...** | **To put it simply,** economic growth depends on innovation. |
+| **That is to say,...** | **That is to say,** higher education increases job opportunities. |
+| **To clarify,...** | **To clarify,** renewable energy is both sustainable and cost-effective. |
+| **In simpler terms,...** | **In simpler terms,** automation reduces human effort and increases efficiency. |
+
+## **Expressing Personal Opinion**  
+| **Phrase** | **Example Sentence** |
+|-----------|---------------------|
+| **In my opinion,...** | **In my opinion,** public transport should be free in major cities. |
+| **I believe that...** | **I believe that** technology has made life more convenient. |
+| **From my perspective,...** | **From my perspective,** learning a se
+
 
 
 ## Simple Words
