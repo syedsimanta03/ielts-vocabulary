@@ -1336,3 +1336,131 @@ To achieve **high coherence & cohesion** in IELTS Writing:
 ---
 
 This method ensures that your answers are well-structured, clear, and developed—helping you score higher in **Fluency & Coherence** in the IELTS Speaking test! 🎯
+
+# **IELTS Writing templates**
+
+---
+
+# 📌 **IELTS Writing Task 1 (Academic - Report Writing)**
+_(For graphs, tables, maps, processes)_
+
+### **1️⃣ Introduction (Paraphrase the Question)**
+- The given **[chart/graph/table/diagram]** illustrates **[what the data represents]** over a period of **[time frame]**.  
+- The **[graph/map/table]** compares **[different categories or changes]** in **[place/time].**  
+- The **[diagram/process]** provides information about **[explain what it shows]**.  
+
+### **2️⃣ Overview (Summarize Main Trends - No Data Yet)**
+- Overall, it is clear that **[main trend 1]** and **[main trend 2]** are the most noticeable features.  
+- The most significant change is **[describe trend]**, whereas **[other trend]** remained stable.  
+- A notable feature is that **[highest/lowest point]**, while **[another observation]**.  
+
+### **3️⃣ Body Paragraph 1 (Describe 1st Key Trend with Data)**
+- Looking at the data in more detail, **[describe first trend]**.  
+- In **[year],** the number of **[category]** was **[data]**, but by **[year]**, it had **[increased/decreased]** to **[data]**.  
+- A similar pattern can be seen in **[another category]**, where **[data comparison]**.  
+
+### **4️⃣ Body Paragraph 2 (Describe 2nd Key Trend with Data)**
+- On the other hand, **[second trend]** shows a different pattern.  
+- While **[category]** initially stood at **[data]**, it later **[rose/fell/stabilized]** to **[data]**.  
+- The most noticeable change was **[biggest increase/decrease]**, which **[describe impact]**.  
+
+### **📌 Example Sentence for Trends**
+- 📈 **Increase**: The number of X **rose significantly** from A to B.  
+- 📉 **Decrease**: The percentage of Y **dropped sharply** from A to B.  
+- ➡ **Stable**: The figure for Z **remained constant** at A.  
+- 🔄 **Fluctuation**: The data **fluctuated between A and B** before stabilizing.  
+
+---
+
+# ✍ **IELTS Writing Task 2 (Essay Writing)**
+_(For Opinion, Discussion, Problem-Solution, etc.)_
+
+## **Template for Opinion Essays (Agree/Disagree)**
+### **1️⃣ Introduction**
+- It is often argued that **[paraphrase topic]**. While some people believe **[one side of the argument]**, I strongly **[agree/disagree]** with this statement because **[reason 1]** and **[reason 2]**.  
+
+### **2️⃣ Body Paragraph 1 (First Reason)**
+- One of the main reasons why I **[agree/disagree]** is **[main idea]**.  
+- For example, **[supporting evidence]**.  
+- As a result, **[consequence of this argument]**.  
+
+### **3️⃣ Body Paragraph 2 (Second Reason)**
+- Another key reason is **[second argument]**.  
+- To illustrate, **[real-world example]**.  
+- Therefore, **[explain why this strengthens your opinion]**.  
+
+### **4️⃣ Conclusion**
+- In conclusion, I firmly believe that **[restate opinion]**, as it provides **[benefit 1]** and **[benefit 2]**.  
+- It is recommended that **[suggestion or final thought]**.  
+
+---
+
+## **Template for Discussion Essays (Both Views + Opinion)**
+### **1️⃣ Introduction**
+- Some people think that **[viewpoint 1]**, while others believe that **[viewpoint 2]**.  
+- This essay will discuss both perspectives and explain why **[your opinion]**.  
+
+### **2️⃣ Body Paragraph 1 (First Viewpoint)**
+- Those who support **[first viewpoint]** argue that **[reason]**.  
+- For instance, **[example]**.  
+- Therefore, **[explain why this opinion is valid]**.  
+
+### **3️⃣ Body Paragraph 2 (Second Viewpoint)**
+- On the other hand, many people believe that **[second viewpoint]**.  
+- A good example of this is **[real-life case]**.  
+- Thus, **[explain why this argument is strong]**.  
+
+### **4️⃣ Conclusion (Your Opinion)**
+- In conclusion, while both arguments have merit, I believe that **[your opinion]** because **[reason]**.  
+- In the future, **[prediction or recommendation]**.  
+
+---
+
+## **Template for Problem-Solution Essays**
+### **1️⃣ Introduction**
+- In recent years, **[issue]** has become a major concern.  
+- This essay will discuss the main causes of this problem and suggest possible solutions.  
+
+### **2️⃣ Body Paragraph 1 (Problem 1 & Its Effect)**
+- One major reason for **[problem]** is **[cause]**.  
+- For instance, **[example]**.  
+- Consequently, **[effect of this problem]**.  
+
+### **3️⃣ Body Paragraph 2 (Problem 2 & Its Effect)**
+- Another significant issue is **[second cause]**.  
+- A case in point is **[example]**.  
+- This results in **[negative impact]**.  
+
+### **4️⃣ Body Paragraph 3 (Solutions)**
+- To tackle these problems, governments and individuals must take action.  
+- One possible solution is **[solution 1]**, which can **[expected result]**.  
+- Additionally, **[solution 2]** would help by **[explanation]**.  
+
+### **5️⃣ Conclusion**
+- In conclusion, **[restate problems]** are serious concerns, but they can be addressed through **[solutions]**.  
+- It is essential for **[who is responsible]** to take immediate steps to resolve them.  
+
+---
+
+## **Template for Advantages & Disadvantages Essays**
+### **1️⃣ Introduction**
+- Some people believe that **[topic]** has many benefits, while others think it has drawbacks.  
+- This essay will discuss both the advantages and disadvantages before giving my opinion.  
+
+### **2️⃣ Body Paragraph 1 (Advantages)**
+- One of the main benefits of **[topic]** is **[advantage 1]**.  
+- For example, **[supporting example]**.  
+- Another advantage is **[advantage 2]**, which **[explanation]**.  
+
+### **3️⃣ Body Paragraph 2 (Disadvantages)**
+- However, there are some drawbacks to **[topic]**.  
+- Firstly, **[disadvantage 1]**, which leads to **[negative impact]**.  
+- Secondly, **[disadvantage 2]**, which can cause **[another negative effect]**.  
+
+### **4️⃣ Conclusion (Your Opinion)**
+- In conclusion, while **[topic]** has both pros and cons, I believe that **[your opinion]**.  
+- It is important to balance the benefits and challenges to make informed decisions.  
+
+---
+
+🔥 **These templates will help you structure any IELTS Writing Task!**  
